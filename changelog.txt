@@ -1,0 +1,33 @@
+Changelog
+v.1
+-------------------------------------------------
+First published.
+Included :
+
+AdminTools by BluePhoenix175
+https://github.com/BluePhoenix175/DayZ-Admin-Tools-
+
+SargeAi by Sarge
+https://github.com/Swiss-Sarge/SAR_AI
+
+BTK Cargo Script by sxp2high
+http://www.armaholic.com/page.php?id=10834
+
+R3F Logistics by [R3F]
+http://www.team-r3f.org/
+
+=BTC= Fast Rope by = BlackTemplarsClan = 
+http://www.blacktemplars.altervista.org/
+
+Car Radio by Clayman
+http://www.armaholic.com/page.php?id=6688
+
+BTK Cargo Drop by sxp2high
+http://www.armaholic.com/page.php?id=10834
+
+AutoRefuel by Unkown
+
+Custom Buildings & Teleport fix by Zer0R00T
+zrr00t@gmail.com
+
+-------------------------------------------------
